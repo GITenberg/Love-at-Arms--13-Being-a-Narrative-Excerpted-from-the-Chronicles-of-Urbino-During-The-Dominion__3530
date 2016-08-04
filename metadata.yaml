@@ -1,0 +1,32 @@
+_repo: Love-at-Arms--13-Being-a-Narrative-Excerpted-from-the-Chronicles-of-Urbino-During-The-Dominion__3530
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sabatini, Rafael
+    alias: Sabatini, R.
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '640'
+    url: http://www.gutenberg.org/2009/agents/640
+    wikipedia: http://en.wikipedia.org/wiki/Rafael_Sabatini
+description: A strong and noble Count must save the Prince's beautiful niece from
+  the unwanted attnetonis of both a loathsome Duke and a treacherous courtier. Politics,
+  war, and romance in 15th-Century Italy.
+gutenberg_issued: '2002-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3530'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Borgia, Cesare, 1476?-1507 -- Fiction'
+- !lcsh 'Italy -- History -- 1492-1559 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Arranged marriage -- Fiction'
+- !lcsh 'Urbino (Italy) -- Fiction'
+- GITenberg
+title: "Love-at-Arms\r\nBeing a Narrative Excerpted from the Chronicles of Urbino\
+  \ During The Dominion of the High and Mighty Messer Guidobaldo Da Montefeltro"
+url: http://www.gutenberg.org/ebooks/3530
