@@ -1,5 +1,8 @@
 _repo: Love-at-Arms--13-Being-a-Narrative-Excerpted-from-the-Chronicles-of-Urbino-During-The-Dominion__3530
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sabatini, Rafael
@@ -12,6 +15,8 @@ creator:
 description: A strong and noble Count must save the Prince's beautiful niece from
   the unwanted attnetonis of both a loathsome Duke and a treacherous courtier. Politics,
   war, and romance in 15th-Century Italy.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3530#Love-at-Arms--13-Being-a-Narrative-Excerpted-from-the-Chronicles-of-Urbino-During-The-Dominion_
 gutenberg_issued: '2002-11-01'
 gutenberg_type: Text
 identifiers:
